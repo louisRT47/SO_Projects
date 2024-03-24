@@ -37,5 +37,5 @@ Consider the following requirements to be added to the prototype developed in th
 
 Viewing the number of files waiting to be converted, total number of processed files, average size of converted files, etc.;
 
-Shutting down the server: No longer accepting requests and waiting for ongoing conversions to finish."
+Shutting down the server: No longer accepting requests and waiting for ongoing conversions to finish.
 
