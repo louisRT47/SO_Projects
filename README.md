@@ -1,5 +1,5 @@
 # SO_Projects
-Three C programming projects focusing on server managementa and UNIX system, developed during college using Eclipse IDE.
+Three C programming projects focusing on server management and UNIX system, developed during college using Eclipse IDE.
 
 **Current Status:** Done ✅
 
